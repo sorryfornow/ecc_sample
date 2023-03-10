@@ -5,3 +5,4 @@ For a temporal graph G with timestamp in [1,max], this code calculate the query 
 
 the code IFECC is replicated the study:
 On Scalable Computation of Graph Eccentricities SIGMOD'22
+the .PY code in tempG_generation is writen for pre-processing

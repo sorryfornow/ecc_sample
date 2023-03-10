@@ -1,5 +1,5 @@
 # ecc_sample
-Eccentricity calculate for temporal graph.
+Eccentricity query for temporal graph.
 
 Eccentricity definition: the ecc(v) = max(dist(u,v)) for all vertices u in graph G.
 

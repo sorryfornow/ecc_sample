@@ -189,7 +189,7 @@ int main(int argc,char* argv[]) {
     //
     // constexpr const char * dataPath = argv[1];
 
-    const int paraNums = 3;    // number of elements of one line in data doc : u, v, timestamp
+    constexpr int paraNums = 3;    // number of elements of one line in data doc : u, v, timestamp
     //const int paraNum = atoi(argv[2]);
 
     vector<Edge> temp_edges;
